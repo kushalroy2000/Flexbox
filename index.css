@@ -1,0 +1,18 @@
+.items{
+    display: flex;
+}
+#item1, #item2,#item3 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+#aaa,#bbb,#ccc{
+    display: flex;
+    flex-direction: row ;
+}
+
+#sub{
+    background: center;
+    background-color: palegoldenrod;
+}
